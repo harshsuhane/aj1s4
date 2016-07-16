@@ -1,0 +1,1 @@
+(function(age,name,city){console.log('My age is '+age,'My name is '+name,'My location is '+city);}("23","Harsh Suhane","Pune"))
